@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Benjamin Norris 👋
+
+I am currently an Oceanographer with the U.S. Geological Survey. I write code to automate tasks as well as analyze observational and model data. 
 
 <!--
 **bknorris/bknorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
