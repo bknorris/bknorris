@@ -1,4 +1,4 @@
-[![Header](https://github.com/bknorris/bknorris/edit/master/NorthWestOffshore.png "Header")]
+[![Header](https://github.com/bknorris/bknorris/blob/master/NorthWestOffshore.PNG "Header")]
 
 ### Hi there, I'm Ben Norris 👋
 
