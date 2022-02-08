@@ -1,11 +1,12 @@
 ### Hi there, I'm Benjamin Norris 👋
 
 I write code to automate tasks as well as analyze observational and computational modeling data. I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. 
+<br><br>
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://www.clipartmax.com/middle/m2i8i8H7m2Z5K9d3_instagram-instagram-business-card-icon/ (IG icon without padding)
+[1.2]: https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png (IG icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
