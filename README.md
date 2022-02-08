@@ -3,12 +3,12 @@
 I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze ocenaographic observational and computational modeling data. 
 
 
-## &#x1f4c8; GitHub Stats
+### GitHub Stats &#x1f4c8;
 <a href="https://github.com/bknorris/bknorris">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bknorris&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-
+<br>
 Find me on [![LinkedIn][1.2]][1]!
 
 <!-- Icons -->
