@@ -1,6 +1,6 @@
 ### Hi there, I'm Ben Norris 👋
 
-I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze ocenaographic observational and computational modeling data. Find me on [![LinkedIn][1.2]][1].
+I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze ocenaographic observational and computational modeling data. Find me on [![LinkedIn][1.2]][1]!
 
 
 ### GitHub Stats &#x1f4c8;
