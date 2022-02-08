@@ -1,33 +1,3 @@
 ### Hi there, I'm Benjamin Norris 👋
 
 I write code to automate tasks as well as analyze observational and computational modeling data. I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. 
-<br><br>
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]:<img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" 
-     width="400" 
-     height="500" />
-[2.2]: https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667 (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/benjaminknorris/
-[2]: https://www.linkedin.com/in/benjamin-k-norris/
-
-
-<!--
-**bknorris/bknorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
