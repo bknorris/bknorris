@@ -9,7 +9,7 @@ I'm from Santa Cruz, California and currently work for the U.S. Geological Surve
 </a>
 
 <br>
-Find me on [![LinkedIn][1.2]][1]!
+Find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
