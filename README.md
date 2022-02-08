@@ -1,7 +1,7 @@
 ![Header](https://github.com/bknorris/bknorris/blob/master/NorthWestOffshore.PNG "Header")
 <hr size=”10″ noshade>
 
-### Hi there, I'm Ben Norris 👋
+### Hi there, I'm Ben Norris :surfer:
 
 I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze ocenaographic observational and computational modeling data. Find me on [![LinkedIn][1.2]][1]!
 
