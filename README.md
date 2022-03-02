@@ -5,4 +5,12 @@
 
 I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze oceanographic data. I mainly work in MATLAB and C++, but I am also learning Python to start developing my own personal projects. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bknorris&hide=TeX&layout=compact)
+<a href="https://www.instagram.com/benjaminknorris/">
+  <img align="left" alt="Ben's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/benjamin-k-norris/">
+  <img align="left" alt="Ben's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/surferoceaneus?si=fcbb135871814e02">
+  <img align="left" alt="Ben's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
