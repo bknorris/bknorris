@@ -5,3 +5,4 @@
 
 I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze oceanographic data. I mainly work in MATLAB and C++, but I am also learning Python to start developing my own personal projects. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bknorris&hide=TeX&layout=compact)
