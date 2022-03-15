@@ -11,6 +11,3 @@ I'm from Santa Cruz, California and currently work for the U.S. Geological Surve
 <a href="https://www.linkedin.com/in/benjamin-k-norris/">
   <img align="left" alt="Ben's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/surferoceaneus?si=fcbb135871814e02">
-  <img align="left" alt="Ben's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
