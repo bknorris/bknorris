@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Ben Norris :surfer:
 
-I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze oceanographic data. I mainly work in MATLAB and C++, but I am also learning Python to start developing my own personal projects. 
+I'm from Santa Cruz, California and currently work for the U.S. Geological Survey. I write code to analyze oceanographic data. I mainly work in Python, MATLAB, and C++.
 
 <a href="https://www.instagram.com/benjaminknorris/">
   <img align="left" alt="Ben's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
