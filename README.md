@@ -9,5 +9,5 @@ I'm from Santa Cruz, California and currently work as a Project Scientist for th
   <img align="left" alt="Ben's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/benjamin-k-norris/">
-  <img align="left" alt="Ben's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ben's LinkedIN" width="22px" src="https://www.americanexecutivecenters.com/wp-content/uploads/2015/10/LinkedIn-Button.png" />
 </a>
